@@ -1,0 +1,6 @@
+{
+  "name": "ExamVault — Online Quiz & Examination System",
+  "description": "Security-first full-stack online quiz and examination platform for universities and colleges, with role-based Admin, Teacher, and Student portals, question banks, timed assessments, evaluation workflows, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
